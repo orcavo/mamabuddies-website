@@ -3512,6 +3512,24 @@ img {
   border-radius: 15px;
 }
 
+#mc_embed_signup form {
+  padding: 0 !important;
+}
+
+#mc_embed_signup input#mce-EMAIL {
+  border-radius: 15px !important;
+  font-size: 1.2rem;
+}
+
+#mc_embed_signup input#mc-embedded-subscribe {
+  padding: 10px 40px !important;
+  border-radius: 10px !important;
+} 
+
+
+
+
+
 /*** 
 
 ====================================================================
