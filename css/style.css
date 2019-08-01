@@ -328,6 +328,10 @@ figure {
   margin-bottom: 14px;
   font-family: "Fredoka One", cursive;
 }
+.list-style-one-lt {
+  font-size: 18px !important;
+  font-family: "Rubik", sans-serif !important;
+}
 
 .list-style-one li:before {
   content: "\f058";
@@ -3524,11 +3528,7 @@ img {
 #mc_embed_signup input#mc-embedded-subscribe {
   padding: 10px 40px !important;
   border-radius: 10px !important;
-} 
-
-
-
-
+}
 
 /*** 
 
@@ -5725,4 +5725,16 @@ img {
 .comment-form .form-group textarea {
   height: 180px;
   resize: none;
+}
+
+/*** 
+
+====================================================================
+	Other Styling
+====================================================================
+
+ ***/
+
+.headings_lt {
+  font-family: "Corben", cursive;
 }
