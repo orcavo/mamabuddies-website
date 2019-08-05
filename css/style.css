@@ -5738,3 +5738,6 @@ img {
 .headings_lt {
   font-family: "Corben", cursive;
 }
+.title_lt {
+  font-size: 3.1rem !important;
+}
